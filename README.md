@@ -17,7 +17,7 @@
 |---|---|
 | **Project Name** | GhostMarket |
 | **Repository** | https://github.com/sadbunny3000/ghostmarket |
-| **Live Demo** | https://ghostmarket-three.vercel.app |
+| **Live Demo** | https://ghostmarket-d1t2ku797-sadbunny3000s-projects.vercel.app |
 | **Program ID** | iY3mhchKCD4zpxFRjg7DXcpY4t8kjJ8LFmsrsKnsE6F |
 | **Network** | Solana Devnet |
 | **Hackathon** | Solana Colosseum Frontier |
